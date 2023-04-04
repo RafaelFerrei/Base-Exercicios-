@@ -1,4 +1,9 @@
-
+   
+        .final{
+          background-color: black;
+          color: white;
+        }
+        
         .stormHaytek {
             background-color: black;
   color: white;
@@ -6,10 +11,10 @@
   padding-bottom: 25px;
   padding-top: 25px;
 }
-        
       .bemVindos{
         background-color:black;
         padding-left: 50px;
+        color: white;
       
       }
         section{
